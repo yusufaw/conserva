@@ -1,0 +1,14 @@
+{
+  "name": "Conserva",
+  "description": "Conservation Apps",
+  "launch_path": "/index.html",
+  "fullscreen":"true",
+  "orientation":["potrait"],
+  "developer": {
+    "name": "Yusuf Aji WIbowo",
+    "url": "http://blog.ub.ac.id/ucupucup"
+  },"icons": {
+    "128": "/img/speech-balloon-orange-c-icon.png"
+  },
+  "default_locale": "en"
+}
